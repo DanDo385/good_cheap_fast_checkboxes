@@ -28,7 +28,7 @@ body {
 
 .label {
   position: relative;
-  background-color: #d0d0d0;
+  background-color: whitesmoke;
   border-radius: 50px;
   cursor: pointer;
   display: inline-block;
@@ -38,11 +38,11 @@ body {
 }
 
 .toggle:checked + .label {
-  background-color: #8e44ad;
+  background-color: purple;
 }
 
 .ball {
-  background: #fff;
+  background: whitesmoke;
   height: 34px;
   width: 34px;
   border-radius: 50%;
